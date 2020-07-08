@@ -1,0 +1,134 @@
+body{
+    font-family: 'Acme', sans-serif;
+}
+.main-header{
+    background-color: #F0FFF0;
+    padding-bottom: 50px;
+}
+.header-part{
+    padding-top: 30px;
+}
+.header-part2{
+    margin-top: 70px;
+}
+.header-part2 h1{
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.all-button{
+    border: none;
+    padding: 10px 23px;
+    background-color: #21B573;
+    border-radius: 20px;
+    color: white;
+}
+.course-button{
+    border: none;
+    padding: 5px 30px;
+    background-color: #21B573;
+    border-radius: 20px;
+    color: white;
+}
+.button-type{
+    text-decoration: none;
+    text-align: center;
+    width: 100px;
+    padding: 10px 10px;
+    background-color: #21B573;
+    color: white;
+    border-radius: 25px;
+}
+.nav-item a{
+    color: black;
+}
+.ready{
+    color: red;
+    font-size: 20px;
+}
+.schedule{
+    color: #21B573;
+}
+.icon{
+    background-color: #F8FFFB;
+    margin-top: 30px;
+    padding-top: 30px;
+    border-radius: 10px;
+    margin-left: 5px;
+    }
+.icon:hover{
+    box-shadow: 10px 10px 20px lightgrey;
+}
+.card-body .card-img{
+    width: 100%;
+}
+.course{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.course-header{
+    text-align: center;
+    color: #413960;
+    padding-bottom: 50px;
+    font-weight: 900;
+}
+.Mordern-footer1{
+    margin-top: 20px;
+    color: #585859;
+}
+.online-crouse .card{
+    border: none;
+    box-shadow: 10px 10px 10px lightgrey;
+}
+.testimonial-header{
+    text-align: center;
+    padding-bottom: 50px;
+    font-weight: 900;
+}
+.testimonial{
+    margin-bottom: 100px;
+}
+.total-man{
+    width: 800px;
+    position: relative;
+    left: 200px;
+    
+}
+.man{
+    float: left;
+    
+}
+.man p{
+    font-size: 18px;
+    padding-left: 40px;
+    
+}
+.total-footer{
+   background-color: #282531;
+   color: white;
+}
+#subscribe{
+    height: 300px;
+    background-color: #F0FFF0;
+    margin-bottom: 50px;
+}
+#subscribe h6{
+    color: grey;
+}
+.list-head{
+    font-weight: 500;
+}
+.footer-row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer-row ul li{
+    list-style: none;
+}
+.last{
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
